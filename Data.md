@@ -1,4 +1,4 @@
-## Data for the project
+## Data
 
 Now when we have the execution path for our idea, we can start to search the appropriate data sources for each step and gather it all together. 
 
@@ -11,12 +11,13 @@ Now when we have the execution path for our idea, we can start to search the app
   2. In order to provide the further analysis we will use mainly Foursquare location data with help of following call requests:
   - search particular venues in neighborhoods: 
       url='https://api.foursquare.com/v2/venues/aearch?&client_id={}&client_secret={}&v={}&ll={},{},query={}'
-    - explore particular venues in neighborhoods: 
+  - explore particular venues in neighborhoods: 
       url='https://api.foursquare.com/v2/venues/explore?&client_id={}&client_secret={}&v={}&ll={},{}&radius={}&limit={}'
-    - explore trending venues (that have the highest foot traffic): 
+  - explore trending venues (that have the highest foot traffic): 
     url='https://api.foursquare.com/v2/venues/trending?&client_id={}&client_secret={}&v={}&ll={}'
     
    3. In addition to Foursquare we will use some other datasets in order to make our analysis more complex and versatile.
+   
       Thanks to free source NYC Open Data https://opendata.cityofnewyork.us/ we have at our disposal following useful datasets that can       help us to refine the decision-path in our project:
       
       
