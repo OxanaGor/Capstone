@@ -18,14 +18,16 @@ Now when we have the execution path for our idea, we can start to search the app
     
    3. In addition to Foursquare we will use some other datasets in order to make our analysis more complex and versatile.
    
-      Thanks to the free source NYC Open Data https://opendata.cityofnewyork.us/ we have at our disposal following useful datasets that can       help us to refine the decision-path in our project:
+      Thanks to the free source NYC Open Data https://opendata.cityofnewyork.us/ we have at our disposal following useful datasets that can help us to refine the decision-path in our project:
       
       
-   -  Business Improvement Districts of New York:
+   -  Business Improvement Districts of New York 
+   (this dataset show us the most attractive zones where the business prospers:
       https://data.cityofnewyork.us/Business/Business-Improvement-Districts/ejxk-d93y
       
      
-   - Primary Commercial Zoning of New York:
+   - Primary Commercial Zoning of New York 
+   (can be youseful to detect the commercial streets in Brooklyn):
       https://data.cityofnewyork.us/Business/Primary-Commercial-Zoning-by-lot/pwhj-ikym
       
       
