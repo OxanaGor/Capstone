@@ -33,3 +33,5 @@ Now when we have the execution path for our idea, we can start to search the app
       (this dataset can be useful to cluster Brooklyn Neighborhoods by living standarts)
       https://data.cityofnewyork.us/Housing-Development/DOF-Summary-of-Neighborhood-Sales-for-Brooklyn-for/nbun-a9vi
    
+That should be enough to provide an effective analysis. Other important part of the job is to choose the proper data science tools, build correct machine learning models for clustering and make the right conclusions on the basis of analysis.
+Let's do it.
