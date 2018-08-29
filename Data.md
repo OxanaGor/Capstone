@@ -9,11 +9,15 @@ Now when we have the execution path for our idea, we can start to search the app
    For better overview we can visualise it with help of Folium Libraries.
    
   2. In order to provide the further analysis we will use mainly Foursquare location data with help of following call requests:
-    - search particular venues in neighborhoods: url='https://api.foursquare.com/v2/venues/aearch?&client_id={}&client_secret={}&v={}&ll=       {},{},query={}'
+  
+    - search particular venues in neighborhoods: 
+      url='https://api.foursquare.com/v2/venues/aearch?&client_id={}&client_secret={}&v={}&ll={},{},query={}'
     
-    - explore particular venues in neighborhoods: url='https://api.foursquare.com/v2/venues/explore?&client_id={}&client_secret={}&v={}         &ll={},{}&radius={}&limit={}'
+    - explore particular venues in neighborhoods: 
+      url='https://api.foursquare.com/v2/venues/explore?&client_id={}&client_secret={}&v={}&ll={},{}&radius={}&limit={}'
     
-    - explore trending venues (that have the highest foot traffic): url='https://api.foursquare.com/v2/venues/trending?&client_id={}             &client_secret={}&v={}&ll={}'
+    - explore trending venues (that have the highest foot traffic): 
+    url='https://api.foursquare.com/v2/venues/trending?&client_id={}&client_secret={}&v={}&ll={}'
     
    3. In addition to Foursquare we will use some other datasets in order to make our analysis more complex and versatile:
      - Business Improvement Districts of New York:
