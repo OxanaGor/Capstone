@@ -17,5 +17,5 @@ But it will be not enough for owner, just get 2 Neighborhoods' names in Brooklyn
 
 So the end product/ output of our data science project must be: 
 1. The most appropriate 2 Neighborhoods in Brooklyn.
-2. Top 5 streets in each appropriate Neighborhood, where the new shops must be located. 
+2. Top 5 streets in each appropriate Neighborhood, where it makes sense to locate the shop.
 
