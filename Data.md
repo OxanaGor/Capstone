@@ -22,7 +22,7 @@ Now when we have the execution path for our idea, we can start to search the app
       
       
    -  Business Improvement Districts of New York 
-   (this dataset show us the most attractive zones where the business prospers:
+   (this dataset show us the most attractive zones where the business prospers):
       https://data.cityofnewyork.us/Business/Business-Improvement-Districts/ejxk-d93y
       
      
