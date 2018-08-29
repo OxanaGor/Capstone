@@ -2,10 +2,10 @@
 
 Now when we have the execution path for our idea, we can start to search the appropriate data sources for each step and gather it all together. 
 
-1. Get the Dataset with Brooklyn's Neighborhoods and their coordinates.
+1. Get the dataset of Brooklyn's Neighborhoods and their coordinates.
    The file with coordinates of all 5 boroughs of New York and their corresponding neighborhoods is available for free on                    https://geo.nyu.edu/catalog/nyu_2451_34572
    We need to download it, open and transform into data frame.
-   After that we clean our data: extract only the neighborhoods of borough Brooklyn and their coordinates. 
+   After that we clean our data: extract only the neighborhoods of Brooklyn and their coordinates. 
    For better overview we can visualise it with help of Folium Libraries.
    
   2. In order to provide the further analysis we will use mainly Foursquare location data with help of following call requests:
@@ -18,7 +18,7 @@ Now when we have the execution path for our idea, we can start to search the app
     
    3. In addition to Foursquare we will use some other datasets in order to make our analysis more complex and versatile.
    
-      Thanks to free source NYC Open Data https://opendata.cityofnewyork.us/ we have at our disposal following useful datasets that can       help us to refine the decision-path in our project:
+      Thanks to the free source NYC Open Data https://opendata.cityofnewyork.us/ we have at our disposal following useful datasets that can       help us to refine the decision-path in our project:
       
       
    -  Business Improvement Districts of New York:
